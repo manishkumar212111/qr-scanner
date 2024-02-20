@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:5000/';
+const BASE_URL = 'https://restaurant-1e1l.onrender.com' || 'http://localhost:5000/';
 const IMAGE_URL = "https://ik.imagekit.io/i2wp0fsg8dx/";
 
 const getImageURL = (imgName) => IMAGE_URL.concat(imgName);
