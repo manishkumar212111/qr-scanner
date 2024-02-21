@@ -1,4 +1,4 @@
-const BASE_URL = 'https://restaurant-1e1l.onrender.com' || 'http://localhost:5000/';
+const BASE_URL = 'https://restaurant-1e1l.onrender.com/' || 'http://localhost:5000/';
 const REACT_BASE_URL = 'https://shop-d37b.onrender.com/';
 const IMAGE_URL = "https://ik.imagekit.io/i2wp0fsg8dx/";
 // const BASE_URL = 'http://localhost:5000/';
